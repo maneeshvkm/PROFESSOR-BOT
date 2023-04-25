@@ -84,7 +84,7 @@
 
 ## Deploy to Railway
 
-🙏 create button your self
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/HNw_T5?referralCode=Mgz_w6)
 
 ## Commands
 ```
